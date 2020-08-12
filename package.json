@@ -1,0 +1,20 @@
+{
+  "name": "pro100recipebox",
+  "version": "1.0.0",
+  "description": "A site to share recipes with the world.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tsingley1998/PRO100RecipeBox.git"
+  },
+  "author": "Tori Singley",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tsingley1998/PRO100RecipeBox/issues"
+  },
+  "homepage": "https://github.com/tsingley1998/PRO100RecipeBox#readme"
+}
